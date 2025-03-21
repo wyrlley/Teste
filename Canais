@@ -1,0 +1,6 @@
+EXTM3U
+#EXTINF:-1 tvg-logo"https://s2.glbimg.com/KV5eehME-_BD7QEL-W06_2swk4U=/s.glbimg.com/og/rg/f/original/2014/04/03/vemai_marca_1.jpg" group-title"Telecine",Telecine Action
+https://tvsmarters.org/tcaction/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/a/a1/Telecine_Premium_%282021%29.jpg" group-title"Telecine",Telecine Premium
+https://tvsmarters.org/tcpremium/tracks-v1a1/mono.ts.m3u8
